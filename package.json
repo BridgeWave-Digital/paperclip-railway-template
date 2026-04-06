@@ -14,5 +14,8 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "overrides": {
+    "@asamuzakjp/css-color": "0.13.5"
   }
 }
